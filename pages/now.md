@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 title:  "Now"
-subheadline:  "Multi-Device Layouts"
-teaser: "The full-width page format gives you all the space you need to show your content using the grid."
+subheadline:  "지금, 여기!"
+teaser: "요즘 프로토룸에서는 어떤 일들이 일어나고 있을까? 궁금궁금... "
 header:
    image_fullwidth: "unsplash_leaf_header.jpg"
 permalink: "/now/"
