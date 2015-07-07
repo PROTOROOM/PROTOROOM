@@ -9,9 +9,9 @@ title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
 header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
-    title: "Blog & Portfolio"
-    url: 'http://phlow.github.io/feeling-responsive/blog/'
-    text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+    title: "Now"
+    url: 'http://protoroom.kr/blog/'
+    text: '한글 테스트 한글 테스트 한글 테스트 '
     image: unsplash_9-302x182.jpg
 widget-2:
     title: "Why use this theme?"
