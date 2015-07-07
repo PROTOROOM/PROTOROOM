@@ -1,8 +1,7 @@
 ---
 layout: page-fullwidth
 title:  "Now"
-subheadline:  "지금, 여기!"
-teaser: "요즘 프로토룸에서는 어떤 일들이 일어나고 있을까? 궁금궁금... "
+header: no
 permalink: "/now/"
 ---
 <div class="row">
