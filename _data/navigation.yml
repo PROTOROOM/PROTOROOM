@@ -1,8 +1,8 @@
-- title: PROTOROOM 
+- title: "PROTOROOM"
   url: "/"
   side: left
 
-- title: About
+- title: "About"
   url: "/about/"
   side: left
 
@@ -43,7 +43,8 @@
     url: "/roadmap/"
 
 - title: "NOW"
-url: "/design/page-fullwidth/"
+  url: "/design/page-fullwidth/"
+  side: left
 
 - title: "Search"
   url: "/search/"
