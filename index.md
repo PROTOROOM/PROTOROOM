@@ -4,7 +4,7 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: frontpage
+layout: page
 title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
 header:
    image_fullwidth: "header_unsplash_12.jpg"

@@ -55,6 +55,7 @@ permalink: /:categories/:title/
 highlight: pygments
 excerpt_separator: "\n\n"
 exclude: []
+lsi: false
 include: ['.htaccess']
 
 
