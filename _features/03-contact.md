@@ -6,4 +6,6 @@ subheading: Will Seal the Deal.
 image: "http://placehold.it/500x500"
 ---
 
-Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
+Left | Right
+asdfaslkfjalksf saklfjsal dklasf sak dkasl fjkadsl kl klfdjakl fjkla jkfl dajfkl | dklakfjdlkasjkljklfdjalkfjkdlsajfkldsjalkfjdljkldjalkfjakl
+dkalsfjkdsaljkl fdkaslfjdklsafjlksa fsaklf sdjf l | dldkajfkladsjfkljklajfdklas dsakf dl fd 
