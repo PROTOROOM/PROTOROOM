@@ -3,7 +3,7 @@ id: hoonida
 name: hoonida
 heading: Hoonida Kim
 subheading: air sculptor (sound & new media)
-image: "http://placehold.it/500x500"
+image: "/images/hoonida.jpg"
 ---
 
 Hoonda-Kim (KR)은 공기 조각가(sound&new media )로 활동하고 있으며 이번 INTERNET BLACK MARKET "Yami-Ichi in Seoul” 의 오거나이저 이다.
