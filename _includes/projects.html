@@ -1,7 +1,7 @@
 <div class='project'>
   {% for project in site.projects %}
   <section>
-  <img src='{{ project.image }}'>
+  <a href='{{ project.url }}' ><img src='{{ project.image }}'></a>
   </section>
   {% endfor %}
 </div>
