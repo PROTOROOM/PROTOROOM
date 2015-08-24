@@ -1,7 +1,7 @@
 ---
 id: hoonida
 name: hoonida
-heading: Hoonida Kim
+heading: HOONIDA KIM
 subheading: air sculptor (sound & new media)
 image: "/images/hoonida.jpg"
 ---

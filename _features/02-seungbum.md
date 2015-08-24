@@ -1,7 +1,7 @@
 ---
 id: seungbum
 name: seungbum
-heading: SeungBum Kim
+heading: SEUNGBUM KIM
 subheading: metamedia tinker
 image: "/images/dynabook.png"
 ---
