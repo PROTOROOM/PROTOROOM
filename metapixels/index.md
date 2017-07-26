@@ -1,3 +1,5 @@
+![](./front.jpg)
+
 # Feedback of MetaPixels - Language for Digital Atoms (2017)
  * 메타픽셀 피드백(2017)
  * PROTOROOM (Hoonida Kim, SeungBum Kim)
@@ -16,5 +18,3 @@
 이들 픽셀의 행위로 만들어진 새로운 이미지는 다시 카메라들의 입력으로 되먹임되고, 이를 통해 픽셀들은 메타픽셀로서 피드백된다. 
 
 
-  Images are like hyperlinks, but with an exclamation mark in front of them:
-  ![](http://placekitten.com/g/200/300)
