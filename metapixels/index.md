@@ -1,8 +1,7 @@
 ![](./front.jpg)
 
 ## Feedback of MetaPixels - Language for Digital Atoms (2017)
- * 메타픽셀 피드백(2017)
- * PROTOROOM (Hoonida Kim, SeungBum Kim)
+ * **PROTOROOM (Hoonida Kim, SeungBum Kim)**
  * http://protoroom.kr
 
 일반적인 카메라는 대상의 이미지를 찍는 오브젝트이다.  그러나 <메타픽셀 피드백>에 설치된 카메라는 대상의 이미지를 찍는 카메라가 아니다.
