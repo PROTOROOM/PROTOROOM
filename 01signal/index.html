@@ -7,8 +7,10 @@ subheading: Hoonida Kim & SeungBum Kim
 {% include header.html %}
 
 <div class="container">
+    <section>
     {% capture my_include %}{% include_relative 01signal.md %}{% endcapture %}
     {{ my_include | markdownify }}
+    </section>
 <br/>
     {% include features.html %}
 </div>
