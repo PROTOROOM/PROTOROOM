@@ -18,6 +18,7 @@
 
 ![](./lang_for_pixels.png)
 
+![](./front.jpg)
 
 ## 초기 이미지의 선택
 
