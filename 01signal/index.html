@@ -6,9 +6,10 @@ subheading: Hoonida Kim & SeungBum Kim
 
 {% include header.html %}
 
-{% capture my_include %}{% include_relative 01signal.md %}{% endcapture %}
-{{ my_include | markdownify }}
 <div class="container">
-  {% include features.html %}
+    {% capture my_include %}{% include_relative index.md %}{% endcapture %}
+    {{ my_include | markdownify }}
+
+    {% include features.html %}
 </div>
 {% include footer.html %}
