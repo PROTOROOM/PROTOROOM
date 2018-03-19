@@ -21,9 +21,9 @@
 
 ## 초기 이미지의 선택
 
-<http://www.milliondollarhomepage.com/>
+#### <https://draemm.li/various/place-atlas/>
 ![](./init01.png)
 
-<https://draemm.li/various/place-atlas/>
+#### <http://www.milliondollarhomepage.com/>
 ![](./init02.png)
 
