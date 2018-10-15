@@ -2,7 +2,7 @@
 id: seungbum
 name: seungbum
 heading: SEUNGBUM KIM
-subheading: metamedia tinker
+subheading: metamedia ( tinker | artist )
 image: "/images/dynabook.png"
 ---
 <b><a href="http://metakits.cc">http://metakits.cc</a></b>

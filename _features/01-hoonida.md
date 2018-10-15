@@ -2,7 +2,7 @@
 id: hoonida
 name: hoonida
 heading: HOONIDA KIM
-subheading: air sculptor (sound & new media)
+subheading: air sculptor / metamedia artist
 image: "/images/hoonida.jpg"
 ---
 <b><a href="http://hoonida.com/">http://hoonida.com</a></b>
