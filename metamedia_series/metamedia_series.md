@@ -5,7 +5,6 @@
 ## sensuous transforming of 0 | 1 signal Ver.1 (2016)
  * [Media Art as an Awareness Filter - NTT ICC](http://www.ntticc.or.jp/en/exhibitions/2016/icc-kids-program-2016-media-art-as-an-awareness-filter/)
 
-{% include youtubePlayer.html id=co9ziGXSjrY %}
 
 
 ## Feedback of MetaPixels - Language for Digital Atoms (2017)
