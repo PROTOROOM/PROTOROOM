@@ -1,17 +1,19 @@
 ## Metamedia Series
 **PROTOROOM (Hoonida Kim, Seungbum Kim)**
 
+&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;  
 
-
-![](/images/spacer50.png)
 
 ### sensuous transforming of 0 | 1 signal Ver.1 (2016)
  * Exhibition : **[Media Art as an Awareness Filter - NTT ICC, Japan](http://www.ntticc.or.jp/en/exhibitions/2016/icc-kids-program-2016-media-art-as-an-awareness-filter/)**
  * Description : <http://protoroom.kr/metamedia_series/PROTOROOM_sensuous_transforming_01signal.pdf>
 
+&nbsp;&nbsp;  
+
 {% include youtubePlayer.html id="co9ziGXSjrY" %}
 
-&nbsp;&nbsp;  
 &nbsp;&nbsp;  
 &nbsp;&nbsp;  
 
@@ -20,9 +22,13 @@
  * Exhibition : **[Our Bright Future–Cybernetic Fantasy - Nam June Paik Art Center, Korea](https://njpac-en.ggcf.kr/archives/exhibit/cybernetic-fantasy?term=10)**
  * Description :
 
+ &nbsp;&nbsp;  
 
+ {% include youtubePlayer.html id="co9ziGXSjrY" %}
 
-![](/images/spacer50.png)
+ &nbsp;&nbsp;  
+ &nbsp;&nbsp;  
+ &nbsp;&nbsp;  
 
 ----
 #### PROTOROOM
