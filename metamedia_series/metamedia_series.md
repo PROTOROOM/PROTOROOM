@@ -1,7 +1,3 @@
----
-01signalId:co9ziGXSjrY
----
-
 # Metamedia Series
  * **PROTOROOM (Hoonida Kim, SeungBum Kim)**
 
