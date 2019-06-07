@@ -6,16 +6,16 @@
 ![](/images/spacer50.png)
 
 ### sensuous transforming of 0 | 1 signal Ver.1 (2016)
- * Exhibition : **[Media Art as an Awareness Filter - NTT ICC](http://www.ntticc.or.jp/en/exhibitions/2016/icc-kids-program-2016-media-art-as-an-awareness-filter/)**
+ * Exhibition : **[Media Art as an Awareness Filter - NTT ICC, Japan](http://www.ntticc.or.jp/en/exhibitions/2016/icc-kids-program-2016-media-art-as-an-awareness-filter/)**
  * Description : <http://protoroom.kr/metamedia_series/PROTOROOM_sensuous_transforming_01signal.pdf>
 
 {% include youtubePlayer.html id="co9ziGXSjrY" %}
 
-
-![](/images/spacer20.png)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 ### Feedback of MetaPixels - Language for Digital Atoms (2017)
- * Exhibition : **[Our Bright Future–Cybernetic Fantasy - Nam June Paik Art Center](https://njpac-en.ggcf.kr/archives/exhibit/cybernetic-fantasy?term=10)**
+ * Exhibition : **[Our Bright Future–Cybernetic Fantasy - Nam June Paik Art Center, Korea](https://njpac-en.ggcf.kr/archives/exhibit/cybernetic-fantasy?term=10)**
  * Description :
 
 
