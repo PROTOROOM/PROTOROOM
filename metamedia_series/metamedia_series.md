@@ -13,6 +13,7 @@
 
 &nbsp;&nbsp;
 &nbsp;&nbsp;
+&nbsp;&nbsp;
 
 ### Feedback of MetaPixels - Language for Digital Atoms (2017)
  * Exhibition : **[Our Bright Future–Cybernetic Fantasy - Nam June Paik Art Center, Korea](https://njpac-en.ggcf.kr/archives/exhibit/cybernetic-fantasy?term=10)**
