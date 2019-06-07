@@ -1,5 +1,5 @@
 ## Metamedia Series
- * **PROTOROOM (Hoonida Kim, Seungbum Kim)**
+**PROTOROOM (Hoonida Kim, Seungbum Kim)**
 
 
 ----
