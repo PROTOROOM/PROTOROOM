@@ -1,0 +1,19 @@
+---
+layout: default
+heading: PROTOROOM
+subheading: Hoonida Kim & SeungBum Kim
+---
+
+{% include header.html %}
+
+<div class="container">
+    <div class="project">
+    <section>
+    {% capture my_include %}{% include_relative metamedia_series.md %}{% endcapture %}
+    {{ my_include | markdownify }}
+    </section>
+    </div>
+<br/>
+    {% include features.html %}
+</div>
+{% include footer.html %}
