@@ -3,7 +3,7 @@
 
 
 
-![](/images/spacer.png)
+![](/images/spacer50.png)
 ----
 ### sensuous transforming of 0 | 1 signal Ver.1 (2016)
  * **[Media Art as an Awareness Filter - NTT ICC](http://www.ntticc.or.jp/en/exhibitions/2016/icc-kids-program-2016-media-art-as-an-awareness-filter/)**
@@ -16,7 +16,7 @@
 
 
 
-![](/images/spacer.png)
+![](/images/spacer50.png)
 ----
 #### PROTOROOM
 
