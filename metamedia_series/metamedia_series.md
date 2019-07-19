@@ -20,7 +20,7 @@
 
 ### Feedback of MetaPixels - Language for Digital Atoms
  * Exhibition : **[Our Bright Future–Cybernetic Fantasy - Nam June Paik Art Center, Korea, 2017](https://njpac-en.ggcf.kr/archives/exhibit/cybernetic-fantasy?term=10)**
- * Description :
+ * Description : <http://protoroom.kr/metamedia_series/PROTOROOM_MetaPixels.pdf>
 
  &nbsp;&nbsp;  
 
@@ -37,7 +37,7 @@ PROTOROOM is a "metamedia" collective with a creative practice based on the tech
 
 #### Hoonida Kim
  * Metamedia artist / Air sculptor
- * <http://hoonida.com>
+ * <http://hoonida.com> <http://hoonidalabs.com>
 
 #### Seungbum Kim
  * Metamedia ( tinker \| artist )
