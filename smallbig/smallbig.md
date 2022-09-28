@@ -3,10 +3,9 @@
 
 &nbsp;&nbsp;  
 &nbsp;&nbsp;  
-&nbsp;&nbsp;  
 
+![](./small_S0_v1.png)
 
-### sensuous transforming of 0 | 1 signal Ver.1
 ⟪2022 ZER01NE DAY⟫에서는 PROTOROOM(후니다 킴, 김승범)은 신작 <SmallBig_SØ : 생성적 알고리즘의 탐색적 작곡과 인터페이스 연구>의 프로토타입으로써 쇼케이스 전시와 렉쳐 사운드 퍼포먼스를 선보입니다.  
 사전 예약과 현장 입장으로 운영됩니다.   
 
