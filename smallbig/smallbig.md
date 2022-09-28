@@ -34,6 +34,7 @@ PROTOROOM의 공연은 9월 30일과 10월 1일 저녁 시간에 만나볼 수 �
 ### ZER01NE TechBand
 
 ![](./zer01ne_techband.jpg)
+
  * credit : PROTOROOM 
 
 **TechBand  "나의 움직임을  다른 감각으로 일으키는 밴드."** ZER01NE DAY는 익숙하게 사용해온 일상의 테크놀로지에 무뎌진 나의 사고에 자극을 주고  멈추어 있던 나를 뛰게 한다. 
