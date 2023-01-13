@@ -1,4 +1,4 @@
-baseURL = "protoroom.kr"
+baseURL = ""
 languageCode = "ko-kr"
 title = "PROTOROOM"
 # themesDir = "/themes"
