@@ -1,7 +1,7 @@
 baseURL = "protoroom.kr"
 languageCode = "ko-kr"
 title = "PROTOROOM"
-themesDir = "/themes"
+# themesDir = "/themes"
 theme = "hugo-whisper-theme"
 
 pygmentsCodeFences = true
